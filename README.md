@@ -37,7 +37,9 @@ Start application:
 ## 1. HASHES - to Store the Restaurant and their attributes like services, facilities, working days and hours.
 
 KEY: restaurant:restID EG:- restaurant:153 VALUE: {
+
 name: 'tacos los volcanes',
+
 address: 'Francisco I. Madero 145 Centro',
 city: 'san luis potosi',
 country: 'Mexico',
