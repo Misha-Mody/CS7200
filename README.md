@@ -23,3 +23,13 @@ Start application:
 
 1. `npm start`
 2. goto http://localhost:2000/ to view the project
+
+
+# Phase 3 : Select or Create a Sample Database:
+
+- [Rating database dump](./db/rating.json)
+- [Restaurant database dump](./db/restaurant.json)
+
+# Phase 3: Create NoSQL Data using model Data
+
+[convertData](./app/MongoToRedisData)
