@@ -27,8 +27,8 @@ Start application:
 
 # Phase 3 : Select or Create a Sample Database:
 
-- [Rating database dump](./db/rating.json)
-- [Restaurant database dump](./db/restaurant.json)
+- [restaurantDB](./db/restaurant.json)
+- [Rating](./db/rating.json)
 
 # Phase 3: Create NoSQL Data using model Data
 
